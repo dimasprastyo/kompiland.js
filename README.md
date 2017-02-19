@@ -1,0 +1,2 @@
+# kompiland.js
+file javasript
